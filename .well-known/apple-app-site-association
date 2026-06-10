@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["LK6J54JQKD.com.talentmarket.talentMarket"],
+        "components": [
+          {
+            "/": "/product/*",
+            "comment": "달란트시장 상품 상세 페이지"
+          },
+          {
+            "/": "/post/*",
+            "comment": "달란트시장 커뮤니티 게시글 상세 페이지"
+          }
+        ]
+      }
+    ]
+  }
+}
